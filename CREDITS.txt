@@ -1,0 +1,8 @@
+Blackwood Village - sound credits
+
+bv_fire2.mp3 (a burning house): made from the recording "Fire.wav" by Dynamicell,
+https://freesound.org/people/Dynamicell/sounds/17548/ - licensed CC BY 3.0
+(https://creativecommons.org/licenses/by/3.0/). Mixed, shortened and faded for the game.
+(Files taken from Minetest Game's fire mod: fire_large.ogg, fire_fire.1.ogg, fire_fire.2.ogg.)
+
+bv_churchbell3.mp3: BigSoundBank recording #3445 (supplied by the game's owner).
